@@ -43,3 +43,9 @@
 [submodule "example/gst-examples"]
 	path = example/gst-examples
 	url = https://github.com/GStreamer/gst-examples.git
+[submodule "media/libvpx"]
+	path = media/libvpx
+	url = https://github.com/webmproject/libvpx.git
+[submodule "media/openh264"]
+	path = media/openh264
+	url = https://github.com/cisco/openh264.git
