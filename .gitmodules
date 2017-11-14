@@ -1,0 +1,45 @@
+[submodule "gst/gstreamer"]
+	path = gst/gstreamer
+	url = https://github.com/GStreamer/gstreamer.git
+[submodule "gst/gst-python"]
+	path = gst/gst-python
+	url = https://github.com/GStreamer/gst-python.git
+[submodule "gst/gst-plugins-good"]
+	path = gst/gst-plugins-good
+	url = https://github.com/GStreamer/gst-plugins-good.git
+[submodule "gst/gst-plugins-ugly"]
+	path = gst/gst-plugins-ugly
+	url = https://github.com/GStreamer/gst-plugins-ugly.git
+[submodule "gst/gst-devtools"]
+	path = gst/gst-devtools
+	url = https://github.com/GStreamer/gst-devtools.git
+[submodule "gst/gst-docs"]
+	path = gst/gst-docs
+	url = https://github.com/GStreamer/gst-docs.git
+[submodule "gst/gst-plugins-base"]
+	path = gst/gst-plugins-base
+	url = https://github.com/GStreamer/gst-plugins-base.git
+[submodule "gst/gst-plugins-bad"]
+	path = gst/gst-plugins-bad
+	url = https://github.com/GStreamer/gst-plugins-bad.git
+[submodule "gst/gst-build"]
+	path = gst/gst-build
+	url = https://github.com/GStreamer/gst-build.git
+[submodule "gst/gst-rtsp-server"]
+	path = gst/gst-rtsp-server
+	url = https://github.com/GStreamer/gst-rtsp-server.git
+[submodule "gst/gst-libav"]
+	path = gst/gst-libav
+	url = https://github.com/GStreamer/gst-libav.git
+[submodule "gst/orc"]
+	path = gst/orc
+	url = https://github.com/GStreamer/orc.git
+[submodule "gst/qt-gstreamer"]
+	path = gst/qt-gstreamer
+	url = https://github.com/GStreamer/qt-gstreamer.git
+[submodule "gst/gst-omx"]
+	path = gst/gst-omx
+	url = https://github.com/GStreamer/gst-omx.git
+[submodule "example/gst-examples"]
+	path = example/gst-examples
+	url = https://github.com/GStreamer/gst-examples.git
