@@ -49,3 +49,6 @@
 [submodule "media/openh264"]
 	path = media/openh264
 	url = https://github.com/cisco/openh264.git
+[submodule "media/kvazaar"]
+	path = media/kvazaar
+	url = https://github.com/ultravideo/kvazaar.git
