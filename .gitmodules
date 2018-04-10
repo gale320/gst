@@ -52,3 +52,6 @@
 [submodule "media/kvazaar"]
 	path = media/kvazaar
 	url = https://github.com/ultravideo/kvazaar.git
+[submodule "gst/gstreamer-vaapi"]
+	path = gst/gstreamer-vaapi
+	url = https://github.com/GStreamer/gstreamer-vaapi.git
