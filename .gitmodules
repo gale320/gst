@@ -55,3 +55,15 @@
 [submodule "gst/gstreamer-vaapi"]
 	path = gst/gstreamer-vaapi
 	url = https://github.com/GStreamer/gstreamer-vaapi.git
+[submodule "extlib/libva"]
+	path = extlib/libva
+	url = https://github.com/intel/libva.git
+[submodule "extlib/x265"]
+	path = extlib/x265
+	url = https://github.com/videolan/x265.git
+[submodule "extlib/x264"]
+	path = extlib/x264
+	url = https://github.com/mirror/x264.git
+[submodule "ext/kvazaar"]
+	path = ext/kvazaar
+	url = https://github.com/ultravideo/kvazaar.git
